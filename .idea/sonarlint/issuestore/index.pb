@@ -1,5 +1,29 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-K
-src/main/java/java/Bot.java,e\9\e980ae153f1a8721d58a31eb9623240767c18aeb
+P
+ .idea/libraries/log4j_1_2_17.xml,e\8\e8fd2ab5acf1a640f1f29076612ccaa9a86ef42d
+Y
+)src/main/java/java/AnonimyzerCommand.java,3\a\3a88da11f8afa55da023e05329b798e0333ca229
+U
+%src/main/java/java/AnonymizerBot.java,0\6\06d1c4544565ca1391d67b972d9e37ac93c181da
+Q
+!src/main/java/java/Anonymous.java,4\8\485451130191e81e443f0b0cf45ce7573526787f
+X
+(src/main/java/java/AnonymousService.java,3\e\3ef3fa6dc2991143abe0280101796921b58b6cff
+V
+&src/main/java/java/BotInitializer.java,7\7\77580195f8e787f5d06dc85fe19bd720c4e3b3a3
+S
+#src/main/java/java/HelpCommand.java,6\2\628d7f1598df6fe8a670729c9227eb90872a09f5
+U
+%src/main/java/java/MyNameCommand.java,c\c\cc22efb1324776db7b6540f056e34041daccca46
+T
+$src/main/java/java/StartCommand.java,0\c\0ce5e3e788497bae17dedda6bf80bf047fee79e0
+S
+#src/main/java/java/StopCommand.java,9\b\9b6a62966bb645ec8354c677d0a9d46d0bc0d0cf
+S
+#src/main/resources/log4j.properties,7\5\755950bb690295904a49d36e60958901c54013b8
+9
+	TGapp.iml,8\0\80b02ad2865674765f12dc9a7e530252a972e2ba
+V
+&src/main/java/java/SetNameCommand.java,9\3\93ff13770557d6f03c634c9b6d74f05271983255
